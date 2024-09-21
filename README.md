@@ -1,0 +1,2 @@
+This project aims to streamline customer service by developing an automated email response system. Using a fine-tuned T5 Transformer model, the system generates contextually appropriate and timely responses to customer emails, improving response efficiency and customer satisfaction. The system processes email inquiries and provides relevant responses, helping businesses reduce manual intervention in handling customer queries.
+
